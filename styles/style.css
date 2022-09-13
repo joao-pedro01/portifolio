@@ -1,0 +1,27 @@
+/* 
+    #22272e
+    #768390
+*/
+.content {
+    background-color: #22272e;
+    color: #768390;
+}
+
+.title {
+    margin-left: 10rem;
+}
+.second-title {
+    margin-left: 2rem;
+}
+.btn {
+    width: 25%;
+    margin-left: 2rem;
+    margin-top: 1rem;
+}
+.navbar-brand {
+    color: #768390;
+}
+.ico {
+    width: 2rem;
+    margin-bottom: 4px;
+}
