@@ -34,13 +34,15 @@
 }
 .first {
     margin: auto;
-    background-color: white;
+    /* background-color: white; */
     width: 500px;
     height: 250px;
 }
 .first-content {
     display: flex;
     justify-content: center;
-    background-color: darkblue;
-    height: 60px;
+    background-color: #394049;
+    color: #768390;
+    height: 35px;
+    border-radius: 10px;
 }
